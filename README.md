@@ -1,2 +1,2 @@
-# saranraj-edx
+# saranraj-simpleinterest calculator
 simple interest calculator
